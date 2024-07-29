@@ -35,6 +35,7 @@ Sensors: Continuously gather data on surroundings and objects.
 Detected Objects Table: Stores and tracks detected objects.
 Robot Trace Function: Visually traces the robot's path within the simulation environment.
 
+
 Implementation of Key Concepts
 Reasoning
 The robot uses reasoning to navigate around obstacles based on sensor inputs, making decisions to avoid collisions and explore new paths.
